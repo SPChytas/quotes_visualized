@@ -10,3 +10,4 @@
 | Quote | Realization |
 | ------- | ----- |
 | when you lay down outside, looking up at the sky, you are actually staring down an infinite cosmic abyss with only the earth's gravity stopping you from drifting off forever. | <a href='imgs/1.webp'><img src="imgs/1.webp" width="700"></a> |
+| It's the nature of time that the old ways must give in. It's the nature of time that the new ways come in sin. | <a href='imgs/2a.webp'><img src="imgs/2a.webp" width="700"></a> <a href='imgs/2b.webp'><img src="imgs/2b.webp" width="700"></a> <a href='imgs/2e.webp'><img src="imgs/2e.webp" width="700"></a>|
